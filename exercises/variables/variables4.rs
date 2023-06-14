@@ -6,7 +6,7 @@
 // I AM NOT DONE
 
 fn main() {
-    let x = 3;
+    let x: i32 = 4;
     println!("Number {}", x);
     x = 5; // don't change this line
     println!("Number {}", x);
